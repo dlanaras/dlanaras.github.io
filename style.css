@@ -18,6 +18,12 @@
     height: 100%;
 }
 
+.coolBack {
+    background-color: #04007928;
+    padding: 5px;
+    border-radius: 5%;
+}
+
 html {
     width: 100%;
     height: 100%;
@@ -34,10 +40,4 @@ body {
 
 * {
     color: white;
-}
-
-.coolBack {
-    background-color: #050079;
-    padding: 5px;
-    border-radius: 5%;
 }
