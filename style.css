@@ -19,15 +19,14 @@
 }
 
 .coolBack {
-    background-color: #04007928;
+    background-color: #070707d3;
     text-align: center;
-    width: 100%;
+    width: 100% !important;
 }
 
-.coolBack p {
+#death-text {
     color: rgb(165, 11, 11);
     font-weight: 600px;
-
 }
 
 html {
