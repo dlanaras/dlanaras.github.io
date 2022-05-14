@@ -33,8 +33,11 @@ body {
     width: 100%;
     height: 100%;
     font-family: Indie Flower;
-    font-weight: 800;
+    font-weight: 500;
     font-size: 1.2rem;
+    background-image: url("fear.jpg");
+    background-size: cover;
+    overflow: hidden;
 }
 
 * {
@@ -47,7 +50,7 @@ body {
 }
 
 #death-text {
-    color: rgb(165, 11, 11);
+    color: rgb(200, 11, 11);
     font-weight: 600px;
     font-size: 50px;
 }
