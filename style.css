@@ -54,3 +54,14 @@ body {
     font-weight: 600px;
     font-size: 50px;
 }
+
+#death-text:hover {
+    animation-name: enlarge;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes enlarge {
+    from {font-size: 50px;}
+    to {font-size: 70px;}
+}
